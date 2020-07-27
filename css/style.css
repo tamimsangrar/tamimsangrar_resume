@@ -2464,6 +2464,7 @@ textarea{
     resize: none;
 }
 .bt-submit {
+    width: 50%;
     color: #fff !important;
     position: relative;
     font-weight: 700;
