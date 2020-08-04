@@ -417,7 +417,7 @@ img {
     }
     .section-title {
         margin-bottom: 40px;
-        padding-top: 40px;
+        padding-top: 25%;
     }
     .list-skills .section-head {
         margin-bottom: 40px;
@@ -839,7 +839,7 @@ span.typed {
         left: 0;
     }
     .header .copyrights {
-        bottom: 10px;
+        bottom: -10px;
         position: relative;
     }
     .responsive-header  { 
@@ -3760,4 +3760,9 @@ h5.title
     transform: translateY(2px);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
     border-bottom: none;
+}
+
+.con-text h5
+{
+    font-size:20px;
 }
