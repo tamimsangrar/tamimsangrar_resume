@@ -70,7 +70,7 @@
 }
 
 .theme-btn.style-one{
-	background-image: linear-gradient(to right, #fb5155 0%, #f92a75 50%, #fb5155 100%);
+	background: -webkit-linear-gradient(-45deg, #00A6A6, #266F8D 100%);
 }
 
 .main-menu .navigation > li > ul > li > a:hover{
@@ -91,7 +91,7 @@
 
 .sticky-header .main-menu .navigation > li.current > a,
 .sticky-header .main-menu .navigation > li:hover > a{
-  color: #fb5155;
+  color: #00A6A6;
 }
 
 .main-header.style-four .sticky-header .main-menu .navigation > li.current > a:after, 
@@ -1033,7 +1033,7 @@ h3 a:hover{
 }
 
 .info-section.alternate-2 .inner-container .info-inner .info-box .box .icon-box {
-    background: -webkit-linear-gradient(-45deg, #fb6064, #f93c7f 100%);
+	background: -webkit-linear-gradient(-45deg, #00A6A6, #266F8D 100%);
 }
 
 .contact-section.alternate-2 #content_block_09 .content-box #contact-form .form-group input:focus, 
@@ -1357,7 +1357,7 @@ h3 a:hover{
 
 .main-footer .footer-bottom.style-one .copyright p a:hover,
 .main-footer .footer-bottom.style-one .footer-nav li a:hover{
-	color: #fb5155;
+	font-weight: 800;
 }
 
 .banner-style-two .image-box .anim-icon .icon{

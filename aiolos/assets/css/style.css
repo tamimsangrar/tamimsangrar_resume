@@ -50,7 +50,7 @@
 **********************************************/
 
 
-
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
 
 
 
@@ -1751,14 +1751,15 @@
 
 .main-footer .footer-bottom.style-one{
 	position: relative;
-	background: #fff;
+	background: #266F8D;
 	padding: 22px 0px;
 }
 
 .main-footer .footer-bottom.style-one .copyright p,
 .main-footer .footer-bottom.style-one .copyright p a,
 .main-footer .footer-bottom.style-one .footer-nav li a{
-	color: #666666;
+	/* color: #666666; */
+	color : white;
 }
 
 .footer-bottom .copyright p,
@@ -3273,7 +3274,7 @@
 	font-size: 12px;
 	line-height: 20px;
 	color: #fff;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 .info-section .inner-container .info-inner .info-box .text p{
@@ -8268,7 +8269,7 @@ h3 a{
 }
 
 .page-title.style-two{
-	background-color: #110b44;
+	background-color: #266F8D;
 }
 
 .page-title.style-two .pattern-layer{
@@ -12171,3 +12172,8 @@ body {
 .brands_next {
     right: 40px
 }
+
+/* body
+{
+	font-family: 'Arvo', serif!important;
+} */
