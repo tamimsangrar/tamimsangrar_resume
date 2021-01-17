@@ -144,6 +144,7 @@
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
+  font-weight: 800;
   
 }
 
