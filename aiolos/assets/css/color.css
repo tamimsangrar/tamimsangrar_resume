@@ -124,15 +124,14 @@ h4 a:hover{
 }
 
 .service-block-one .inner-box .icon-box i{
-	color: #fa346d;
+	color: #00A6A6;
 }
 
 .main-header.style-four .menu-area .mobile-nav-toggler .icon-bar{
     background: #7302ea;
   }
-
 .service-block-one .inner-box:before{
-	background: -webkit-linear-gradient(-30deg, #fb5155, #f92a75 100%);
+	background: -webkit-linear-gradient(-30deg, #00A6A6, #266F8D 100%);
 }
 
 .theme-btn.style-three:before{
@@ -177,7 +176,7 @@ h4 a:hover{
 }
 
 .industries-section .inner-box:before{
-	background: -webkit-linear-gradient(0deg, #fb5155, #f92a75 100%);
+	background: -webkit-linear-gradient(0deg, #00A6A6, #266F8D 100%);
 }
 
 .industries-section .inner-box:hover .btn-box a{
@@ -771,7 +770,8 @@ h4 a:hover{
 
 .main-header.style-five .main-menu .navigation > li.current > a, 
 .main-header.style-five .main-menu .navigation > li:hover > a {
-  color: #ff6629;
+  color: white;
+  font-weight: 800;
 }
 
 .main-header.style-five .main-menu .navigation > li.current > a:after,
@@ -880,9 +880,8 @@ h3 a:hover{
 .service-style-four .anim-icon .icon-15{
 	border: 2px solid #d799a9;
 }
-
 .work-block-three .inner-box:hover .icon-box i{
-	background: -webkit-linear-gradient(0deg, #ff6629, #feb857 100%);
+	background: -webkit-linear-gradient(0deg, #00A6A6, #266F8D 100%);
 }
 
 .subscribe-section.style-two .inner-box .link-box li a i{

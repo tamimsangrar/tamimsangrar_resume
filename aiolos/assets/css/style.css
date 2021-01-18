@@ -273,7 +273,7 @@
 }
 
 .service-block-one .inner-box:hover{
-	box-shadow: 0px 20px 30px rgba(251, 81, 85, 0.23);
+	box-shadow: 0px 20px 30px rgb(92, 131, 146);
 }
 
 .service-block-one .inner-box:before{
@@ -6267,12 +6267,13 @@
 	position: relative;
 	overflow: hidden;
 	padding: 400px 0px 235px 0px;
-	background: #fff;
+	background: #7A8AFF;
 }
 
 .banner-style-five .content-box{
 	position: relative;
 	z-index: 2;
+	margin-left: 20%;
 }
 
 .banner-style-five .content-box h1{
@@ -12192,6 +12193,10 @@ body {
 	#content_block_09 .content-box #contact-form .form-group button{
 		display: block;
 		width: 100%;
+		margin-left: 0;
+	}
+
+	.banner-style-five .content-box{
 		margin-left: 0;
 	}
 
