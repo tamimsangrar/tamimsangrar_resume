@@ -1444,7 +1444,7 @@
 
 .clients-section{
 	position: relative;
-	background: #23014f;
+	background: #266F8D;
 	padding: 125px 0px 190px 0px;
 }
 
@@ -7653,6 +7653,7 @@ h3 a{
 .award-section{
 	position: relative;
 	padding: 125px 0px;
+	background-color: #266F8D;
 }
 
 .award-section .pattern-layer{
