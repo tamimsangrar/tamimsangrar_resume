@@ -12,11 +12,11 @@
 }
 
 .industries-section{
-	background: #18003a;
+	background: white;
 }
 
 .industries-section .inner-box{
-	background: #18003a;
+	background: gray;
 }
 
 .main-header .language .lang-dropdown{
@@ -65,7 +65,7 @@
 }
 
 .theme-btn.style-three{
-	color: #1d165c !important;
+	color: black !important;
 	border: 1px solid #00A6A6;	
 }
 
@@ -112,11 +112,11 @@
 }
 
 h1,h2,h3,h4,h5,h6{
-	color: #1d165c;
+	color: black;
 }
 
 h4 a{
-	color: #1d165c;
+	color: black;
 }
 
 h4 a:hover{
@@ -168,7 +168,7 @@ h4 a:hover{
 }
 
 .work-block-one .inner-box .icon-box .count{
-	color: #1d165c;
+	color: black;
 }
 
 .work-block-one .inner-box .icon-box .count:before{
@@ -180,11 +180,11 @@ h4 a:hover{
 }
 
 .industries-section .inner-box:hover .btn-box a{
-	color: #f92f71;
+	color: #266F8D;
 }
 
 .industries-section .inner-box:hover .icon-box{
-	color: #fa3e66;
+	color: #266F8D;
 }
 
 .btn-style-four:before{
@@ -192,7 +192,7 @@ h4 a:hover{
 }
 
 .btn-style-four{
-	color: #1d165c;
+	color: black;
 }
 
 .btn-style-four:hover{
@@ -200,7 +200,7 @@ h4 a:hover{
 }
 
 #content_block_02 .content-box .inner-box .progress-box .count-text{
-	color:#1d165c;
+	color:black;
 }
 
 #content_block_02 .content-box .inner-box .progress-box .icon-box{
@@ -237,7 +237,7 @@ h4 a:hover{
 }
 
 .counter-block-one .inner-box .count-outer{
-	color: #1d165c;
+	color: black;
 }
 
 .news-block-one .inner-box .image-box:before{
@@ -257,7 +257,7 @@ h4 a:hover{
 }
 
 .sticky-header .main-menu .navigation > li > a{
-  color: #1d165c;
+  color: black;
 }
 
 .main-footer .widget-section .about-widget .widget-content .subscribe-box .form-group input:focus{
@@ -390,7 +390,7 @@ h4 a:hover{
 }
 
 .case-block-two .inner-box .image-box .client-box span{
-	color: #1d165c;
+	color: black;
 }
 
 .case-style-two .owl-theme .owl-dots .owl-dot.active span,
@@ -499,7 +499,7 @@ h4 a:hover{
 }
 
 .banner-style-three .content-box h1{
-	color: #1d165c;
+	color: black;
 }
 
 .technology-block-one .inner-box .icon-box i{
@@ -559,7 +559,7 @@ h4 a:hover{
 }
 
 .pricing-block-one .pricing-table .table-header .header-lower p{
-	color: #1d165c;
+	color: black;
 }
 
 .pricing-block-one.active-block .pricing-table .table-header{
@@ -583,7 +583,7 @@ h4 a:hover{
 }
 
 .news-section.style-three .news-block-one .inner-box .lower-content .link a i{
-	color: #dc316e;
+	color: white;
 }
 
 .news-section.style-three .news-block-one .inner-box .lower-content .link a:hover{
@@ -792,11 +792,11 @@ h4 a:hover{
 }
 
 .banner-style-five .content-box a:hover{
-	color: #ff6629;
+	font-weight: 800;
 }
 
 .banner-style-five .anim-icon .icon.bg-color{
-	background: -webkit-linear-gradient(0deg, #c1acf3, #eed4ca 100%);
+	background: -webkit-linear-gradient(0deg, white, #00A6A6 100%);
 }
 
 h3 a:hover{
@@ -1455,6 +1455,5 @@ h3 a:hover{
 }
 
 .handle-preloader .animation-preloader .spinner{
-	border: 3px solid #266F8D;
-    border-top-color: #00A6A6; 
+	
 }

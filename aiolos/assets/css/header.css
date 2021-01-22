@@ -203,7 +203,7 @@
   font-weight:700;
   font-size:16px;
   font-family: 'Muli', sans-serif;
-  color:#1d165c;
+  color:black;
   border-bottom: 1px solid #e5e5e5;
   text-align: left;
   transition:all 500ms ease;
@@ -300,7 +300,7 @@
   font-size:16px;
   font-family: 'Muli', sans-serif;
   text-transform:capitalize;
-  color:#1d165c;
+  color:black;
   text-align: left;
   transition:all 500ms ease;
   -moz-transition:all 500ms ease;
@@ -449,7 +449,7 @@
   font-weight:700;
   opacity:1;
   font-family: 'Muli', sans-serif;
-  color: #1d165c;
+  color: black;
   padding: 0px;
   z-index:1;
   -webkit-transition:all 500ms ease;
@@ -768,7 +768,7 @@ div#mCSB_1_container{
 .sticky-header .logo-box{
   position: relative;
   float: left;
-  padding: 21px 0px 14px 0px !important;
+  padding: 15px 0px 14px 0px !important;
   border: none !important;
 }
 
@@ -825,15 +825,15 @@ div#mCSB_1_container{
 }
 
 .main-header.style-three .sticky-header .main-menu .navigation li.dropdown .megamenu li a{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-three .sticky-header .main-menu .navigation > li > ul > li > ul > li > a{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-three .sticky-header .main-menu .navigation > li > ul > li > a{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-three .sticky-header .logo-box{
@@ -893,7 +893,7 @@ div#mCSB_1_container{
 }
 
 .main-header.style-five .sticky-header .search-box-outer .search-toggler{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-five .sticky-header .search-box-outer .search-btn:before{
@@ -1489,7 +1489,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: #1d165c;
+  color: black;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 600;
 }
@@ -1504,7 +1504,7 @@ div#mCSB_1_container{
 }
 
 .main-header.style-four .search-box-outer .search-toggler{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-four .header-top .info-box li{
@@ -1544,7 +1544,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 16px;
   font-family: 'Josefin Sans', sans-serif;
-  color: #1d165c;
+  color: black;
   font-weight: 600;
 }
 
@@ -1649,7 +1649,7 @@ div#mCSB_1_container{
 }
 
 .main-header.style-four .main-menu .navigation li.dropdown .dropdown-btn{
-  color: #1d165c;
+  color: black;
   top: 40px;
 }
 
@@ -1669,11 +1669,11 @@ div#mCSB_1_container{
 }
 
 .main-header.style-five .main-menu .navigation > li > a{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-five .main-menu .navigation li.dropdown .dropdown-btn{
-  color: #1d165c;
+  color: black;
 }
 
 .main-header.style-five .main-menu .navigation > li.current > a, 
@@ -1756,7 +1756,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   text-align: center;
-  border: 1px solid rgba(255,255,255,0.1);
+  /* border: 1px solid rgba(255,255,255,0.1); */
   border-top: none !important;
   padding: 35px 18.5px;
 }

@@ -233,7 +233,7 @@ img {
 }
 
 .handle-preloader .animation-preloader .spinner{
-  animation: spinner 1s infinite linear;
+  animation: spinner 4s infinite linear;
   border-radius: 50%;
   height: 170px;
   margin: 0 auto 45px auto;
@@ -660,12 +660,36 @@ img {
 }
 
 .sec-title.style-two h2{
-	color: #040535;
+	color: #266F8D;
 }
 
 .sec-title.light p,
 .sec-title.light h2{
 	color: #fff;
+}
+.blue_text
+{
+  color: #266F8D!important;
+}
+.white_text
+{
+  color: #fff!important;
+}
+.black_text
+{
+  color: black!important;
+}
+.white_dots
+{
+  background: #fff!important;
+}
+.white_dots:before
+{
+  border:1px solid #fff!important;
+}
+.white_dots:after
+{
+  border:1px solid #fff!important;
 }
 
 .sec-title .decor{
