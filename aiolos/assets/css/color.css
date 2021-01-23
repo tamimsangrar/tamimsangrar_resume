@@ -120,7 +120,7 @@ h4 a{
 }
 
 h4 a:hover{
-	color: #f9326e;
+	color: #266F8D;
 }
 
 .service-block-one .inner-box .icon-box i{
@@ -1165,7 +1165,7 @@ h3 a:hover{
 }
 
 .project-page .case-block-two .inner-box .image-box .overlay-layer {
-    background: -webkit-linear-gradient(-90deg, rgba(251, 81, 85, 0.9), rgba(249, 42, 117, 0.9) 100%);
+    background: -webkit-linear-gradient(-90deg, #00A6A6, #266F8D 100%);
 }
 
 .project-page .filter-btns li.active,
@@ -1179,11 +1179,11 @@ h3 a:hover{
 
 .pagination li a:hover,
 .pagination li a.active{
-    background: -webkit-linear-gradient(-45deg, #266F8D, #f92a75 100%);
+    background: -webkit-linear-gradient(-45deg, #00A6A6, #266F8D 100%);
 }
 
 .project-page.case-style-three .case-block-two .inner-box .lower-content .link .btn-style-four:hover span{
-	background: -webkit-linear-gradient(-45deg, #266F8D, #f92a75 100%);
+	background: -webkit-linear-gradient(-45deg, #00A6A6, #266F8D 100%);
 }
 
 .project-details-content .data-box .intro-box .single-item .left-column .icon-box{
