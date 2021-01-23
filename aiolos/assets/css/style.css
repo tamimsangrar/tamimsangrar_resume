@@ -12214,6 +12214,21 @@ body {
 	display: none;
 }
 
+.header_style
+{
+	padding: 20px 22.5px!important;
+	width: 80%;
+}
+.all_header {
+    position: static;
+    max-width: 1200px;
+    padding: 0px 15px;
+    margin-right: 74px;
+}
+.mob_display
+{
+	display: none!important;
+}
 /* ====================================================================
                           MOBILE QUERIES
 ==================================================================== */
@@ -12253,9 +12268,41 @@ body {
 
 	.mob_none
 	{
-		display: none;
+		display: none!important;
 	}
 
+	.mob_display
+	{
+		display: block!important;
+	}
+
+	.mob_padding
+	{
+		padding-top: 150px!important;
+	}
+	.about-section
+	{
+		padding-top: 2%!important;
+		padding-bottom: 2%!important;
+	}
+	.about-style-six
+	{
+		padding-top: 15%!important;
+		padding-bottom: 2%!important;
+	}
+	.history-section
+	{
+		padding-top: 2%!important;
+		padding-bottom: 2%!important;
+	}
+	.about-section .tab-btn-box {
+		margin-bottom: 10%;
+	}
+
+	.mob_contact_right
+	{
+		margin-left: 24%;
+	}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */

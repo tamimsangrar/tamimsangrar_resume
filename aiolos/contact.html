@@ -38,7 +38,9 @@
     <div class="preloader">
         <div id="handle-preloader" class="handle-preloader">
             <div class="animation-preloader">
-                <div class="spinner"></div>
+                <div class="spinner">
+                    <img src="assets/images/shape/spinner.png">
+                </div>
                 <div class="txt-loading">
                     <span data-text-preloader="A" class="letters-loading">
                         A
@@ -64,16 +66,18 @@
     </div>
     <!-- preloader end -->
 
+
+
     <!-- main header -->
     <header class="main-header style-one">
-        <div class="auto-container">
+        <div class="all_header">
             <div class="row clearfix">
-                <div class="col-lg-3 col-md-12 col-sm-12 logo-column">
-                    <div class="logo-box">
+                <div class="col-lg-3 col-md-8 col-sm-8 logo-column">
+                    <div class="logo-box ">
                         <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
                     </div>
                 </div>
-                <div class="col-lg-9 col-md-12 col-sm-12 outer-column">
+                <div class="col-lg-9 col-md-4 col-sm-4 outer-column">
                     <div class="outer-box">
                         <div class="header-upper clearfix">
                             <div class="menu-area pull-right clearfix">
@@ -100,8 +104,8 @@
                                         </ul>
                                     </div>
                                 </nav>
-                                <div class="btn-box ">
-                                    <a href="contact.html" class="theme-btn style-one shadow p-3 mb-5 bg-white rounded">Get in Touch!</a>
+                                <div class="btn-box">
+                                    <a href="about.html" class="theme-btn style-one">Get in Touch</a>
                                 </div>
                             </div>
                         </div>
@@ -113,13 +117,13 @@
         <!--sticky Header-->
         <div class="sticky-header">
             <div class="auto-container clearfix">
-                <figure class="logo-box"><a href="index.html"><img src="assets/images/small-logo.png" alt=""></a></figure>
+                <figure class="logo-box sticky_logo"><a href="index.html"><img class="aiolos_sticky" src="assets/images/small-logo.png" alt=""></a></figure>
                 <div class="menu-area">
                     <nav class="main-menu clearfix">
                         <!--Keep This Empty / Menu will come through Javascript-->
                     </nav>
                     <div class="btn-box">
-                        <a href="index.html" class="theme-btn style-one">Get in Touch!</a>
+                        <a href="index.html" class="theme-btn style-one">Get in Touch</a>
                     </div>
                 </div>
             </div>
@@ -142,8 +146,8 @@
                     <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                     <li><a href="mailto:info@example.com">info@example.com</a></li>
                 </ul>
-            </div>
-            <div class="social-links">
+            </div> -->
+            <!-- <div class="social-links">
                 <ul class="clearfix">
                     <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
                     <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
@@ -157,15 +161,15 @@
 
 
     <!--Page Title-->
-    <section class="page-title text-center style-two">
-        <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-62.png);"></div>
+    <section class="page-title style-two text-center mob_padding" id="animate">
+        <!-- <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-62.png);"></div> -->
         <div class="auto-container">
             <div class="content-box">
                 <h1>Contact</h1>
                 <!-- <ul class="bread-crumb clearfix">
                     <li><a href="index.html">Home</a></li>
                     <li><span>\\</span></li>
-                    <li>Contact</li>
+                    <li>Company</li>
                 </ul> -->
             </div>
         </div>
@@ -179,7 +183,7 @@
             <div class="inner-container">
                 <div class="top-inner mb-55">
                     <div class="sec-title text-center">
-                        <p>Contact Information</p>
+                        <!-- <p>Contact Information</p> -->
                         <h2>We’d love to hear from you anytime</h2>
                         <div class="decor" style="background-image: url(assets/images/icons/decor-1.png);"></div>
                     </div>
@@ -197,8 +201,8 @@
                                     <h4>Location</h4>
                                     <span>Our place on the map</span>
                                 </div>
-                                <div class="text">
-                                    <p>Mumbai India</p>
+                                <div class="text mob_contact_right">
+                                    <p>Mumbai, India</p>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +214,7 @@
                                     <h4>Call Us</h4>
                                     <span>Talk with our experts</span>
                                 </div>
-                                <div class="text">
+                                <div class="text mob_contact_right">
                                     <p><a href="tel:+918689991583">+91 8689991583</a></p>
                                     <p>Mon - Fri: 9am to 5pm</p>
                                 </div>
@@ -224,7 +228,7 @@
                                     <h4>Drop us an Email</h4>
                                     <span>Dont hesitate to reach out</span>
                                 </div>
-                                <div class="text">
+                                <div class="text mob_contact_right">
                                     <p><a href="mailto:fly@aiolos.solutions">fly@aiolos.solutions</a></p>
                                 </div>
                             </div>
@@ -346,6 +350,8 @@
 
 <!-- main-js -->
 <script src="assets/js/script.js"></script>
-
+<script src="assets/js/three.r119.min.js"></script>
+<script src="assets/js/vanta.waves.min.js"></script>
+<script src="assets/js/waves.js"></script>
 </body><!-- End of .page_wrapper -->
 </html>

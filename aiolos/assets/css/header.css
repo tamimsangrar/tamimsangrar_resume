@@ -145,6 +145,8 @@
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
   font-weight: 800;
+  text-decoration-color: white;
+  text-decoration-style: wavy;
   
 }
 
@@ -1616,7 +1618,8 @@ div#mCSB_1_container{
   border-right: 1px solid #e5e5e5;
 }
 
-.main-header.style-four .menu-right-content .social-links li a:hover{
+.main-header.style-four .menu-right-content .social-links li a:hover
+{
 
 }
 

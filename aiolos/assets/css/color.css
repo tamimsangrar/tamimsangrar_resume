@@ -1010,11 +1010,11 @@ h3 a:hover{
 }
 
 #content_block_12 .content-box .inner-box .single-item:hover h4:before{
-	border: 1px dashed #fb5d60;
+	border: 1px dashed #266F8D;
 }
 
 #content_block_12 .content-box .inner-box .single-item:hover .box .icon-box{
-    background: -webkit-linear-gradient(-90deg, #fb5e6a, #fa3a6e 100%);
+    background: -webkit-linear-gradient(-90deg, #00A6A6, #266F8D 100%);
 }
 
 .testimonial-style-two.alternate-2 .lower-content .testimonial-content .inner-box .content-box{
